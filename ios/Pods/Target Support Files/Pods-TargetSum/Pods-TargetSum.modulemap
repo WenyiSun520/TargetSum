@@ -1,0 +1,6 @@
+module Pods_TargetSum {
+  umbrella header "Pods-TargetSum-umbrella.h"
+
+  export *
+  module * { export * }
+}

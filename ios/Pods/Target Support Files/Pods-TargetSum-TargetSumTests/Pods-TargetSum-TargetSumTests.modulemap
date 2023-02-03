@@ -1,0 +1,6 @@
+module Pods_TargetSum_TargetSumTests {
+  umbrella header "Pods-TargetSum-TargetSumTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
